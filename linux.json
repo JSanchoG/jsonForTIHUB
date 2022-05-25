@@ -1,0 +1,22 @@
+
+[
+    {"subject": "Linux", "date": "27.03.2022", "referral": "ftp3/", "icon": "nc-icon nc-book-bookmark premium", "description": "FTP - użytkownik istniejący w systemie i wielu użytkowników."},
+    {"subject": "Linux", "date": "23.02-02.03.2022", "referral": "ssh-windows/", "icon": "nc-icon nc-book-bookmark", "description": "SSH."},
+    {"subject": "Linux", "date": "20.01.2022", "referral": "dhcp-nat/", "icon": "nc-icon nc-book-bookmark", "description": "Serwer DHCP z rezerwacją adresu i usługą NAT."},
+    {"subject": "Linux", "date": "15.12.2021", "referral": "srodowiskagraficzne/", "icon": "nc-icon nc-book-bookmark", "description": "Najpopularniejsze środowiska graficzne."},
+    {"subject": "Linux", "date": "14.12.2021", "referral": "dhcp/", "icon": "nc-icon nc-book-bookmark", "description": "DHCP."},
+    {"subject": "Linux", "date": "07.12.2021", "referral": "ufw/", "icon": "nc-icon nc-book-bookmark", "description": "Zapora UFW."},
+    {"subject": "Linux", "date": "30.11.2021", "referral": "interfejsysieciowe-aliasy/", "icon": "nc-icon nc-book-bookmark", "description": "Konfiguracja interfejsów sieciowych i Aliasy sieciowe."},
+    {"subject": "Linux", "date": "19.05.2021", "referral": "www/", "icon": "nc-icon nc-book-bookmark", "description": "WWW."},
+    {"subject": "Linux", "date": "16.05.2021", "referral": "postfix/", "icon": "nc-icon nc-book-bookmark", "description": "Postfix."},
+    {"subject": "Linux", "date": "07.05.2021", "referral": "ftp2/", "icon": "nc-icon nc-book-bookmark", "description": "FTP."},
+    {"subject": "Linux", "date": "21.04.2021", "referral": "ftp/", "icon": "nc-icon nc-book-bookmark", "description": "FTP."},
+    {"subject": "Linux", "date": "12.04.2021", "referral": "dhcp-dns/", "icon": "nc-icon nc-book-bookmark", "description": "Instalacja i konfiguracja serwera DHCP oraz DNS."},
+    {"subject": "Linux", "date": "24.03.2021", "referral": "ssh/", "icon": "nc-icon nc-book-bookmark", "description": "SSH."},
+    {"subject": "Linux", "date": "08.03.2021", "referral": "telnet/", "icon": "nc-icon nc-book-bookmark", "description": "Telnet."},
+    {"subject": "Linux", "date": "02.03.2021", "referral": "ufw-gufw/", "icon": "nc-icon nc-book-bookmark", "description": "Konfiguracja UFW i GUFW."},
+    {"subject": "Linux", "date": "08.02.2021", "referral": "drukowanie/", "icon": "nc-icon nc-book-bookmark", "description": "Drukowanie."},
+    {"subject": "Linux", "date": "26.01.2021", "referral": "operacjenauzytkownikachigrupach/", "icon": "nc-icon nc-book-bookmark", "description": "Operacje na użytkownikach i grupach."},
+    {"subject": "Linux", "date": "15.12.2020", "referral": "klientpoczty/", "icon": "nc-icon nc-book-bookmark", "description": "Klient poczty."},
+    {"subject": "Linux", "date": "08.12.2020", "referral": "konfiguracjainterfejsowsieciowych/", "icon": "nc-icon nc-book-bookmark", "description": "Konfiguracja interfejsów sieciowych."}
+]
